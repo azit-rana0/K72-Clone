@@ -67,7 +67,7 @@ export default function Agence() {
           />
         </div>
         <div className="relative font-[font2] overflow-hidden ">
-          <div className="lg:mt-[45vh] sm:mt-[45vh] mt-[32vh]">
+          <div className="lg:mt-[55vh] sm:mt-[45vh] mt-[32vh]">
             <h1 className="text-[20vw] text-center uppercase leading-[17vw]">
               SEVEN7Y <br /> TWO
             </h1>
